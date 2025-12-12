@@ -2,11 +2,10 @@
 
 Tongari-Boyです
 
-### 技術
+### 使用言語/技術
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,java,html,css,js,php,git,github,md)](https://skillicons.dev)
 
-### 今後
-
+### 今後の学習目標
 .NET<br>
 Unity<br>
 UnrealEngine<br>
