@@ -1,7 +1,18 @@
-## Hi there 👋
+## こんにちは
+
+Tongari-Boyです
+
+### 技術
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,java,html,css,js,php,git,github,md)](https://skillicons.dev)
+
+### 今後
+
+.NET<br>
+Unity<br>
+UnrealEngine<br>
 
 <!--
-**Tongari-Boy/Tongari-Boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Me1td0wn76/Me1td0wn76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
