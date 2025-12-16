@@ -8,6 +8,8 @@ Tongari-Boyです
 ### 今後の学習目標
 .NET<br>
 Unity<br>
+C<br>
+C#<br>
 UnrealEngine<br>
 
 <!--
