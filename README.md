@@ -5,12 +5,14 @@ Tongari-Boyです
 ### 使用言語/技術
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,java,html,css,js,php,git,github,md)](https://skillicons.dev)
 
-### 今後の学習目標
-.NET<br>
-Unity<br>
+### 学習目標
 C<br>
-C#<br>
+C++<br>
 UnrealEngine<br>
+C#<br>
+Unity<br>
+.NET<br>
+
 
 <!--
 **Me1td0wn76/Me1td0wn76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
