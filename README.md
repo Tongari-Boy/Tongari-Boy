@@ -3,7 +3,7 @@
 Tongari-Boyです
 
 ### 使用言語/技術
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,java,html,css,js,php,git,github,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,unrealengine,cs,unity,dotnet,java,html,css,js,php,git,github,md)](https://skillicons.dev)
 
 ### 学習目標
 C<br>
