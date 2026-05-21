@@ -1,18 +1,16 @@
 ## こんにちは
 
-Tongari-Boyです
+Tongari-Boyです  
+
+メモリ管理を筆頭に、低レイヤ意識のプログラミングが好きです。  
+普段はC++でのゲーム開発を行っています。  
 
 ### 使用言語/技術
-[![My Skills](https://skillicons.dev/icons?i=cpp,unrealengine,cs,unity,dotnet,java,html,css,js,php,git,github,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,unrealengine,cs,unity,dotnet,python,java,html,css,js,nodejs,php,git,github,md)](https://skillicons.dev)
 
-### 学習目標
-C<br>
-C++<br>
-UnrealEngine<br>
-C#<br>
-Unity<br>
-.NET<br>
-
+### 組織
+[UCI(UhyomanCollectiveIndustries)](https://github.com/UhyomanCollectiveIndustries)  
+　　楽しいゲームのリポジトリ置き場です
 
 <!--
 **Me1td0wn76/Me1td0wn76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
