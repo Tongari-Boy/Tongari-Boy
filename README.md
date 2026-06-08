@@ -6,7 +6,7 @@ Tongari-Boyです
 普段はC++でのゲーム開発を行っています。  
 
 ### 使用言語/技術
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,unrealengine,cs,unity,dotnet,python,java,html,css,js,nodejs,php,git,github,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,unrealengine,cs,unity,dotnet,python,lua,java,html,css,js,nodejs,php,git,github,md)](https://skillicons.dev)
 
 ### 組織
 [UCI(UhyomanCollectiveIndustries)](https://github.com/UhyomanCollectiveIndustries)  
