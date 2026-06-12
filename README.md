@@ -10,7 +10,10 @@ Tongari-Boyです
 
 ### 組織
 [UCI(UhyomanCollectiveIndustries)](https://github.com/UhyomanCollectiveIndustries)  
-　　楽しいゲームのリポジトリ置き場です
+　　楽しいゲームのリポジトリ置き場です  
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tongari-Boy&show_icons=true&theme=onedark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tongari-Boy&layout=compact&theme=onedark&locale=ja)
 
 <!--
 **Me1td0wn76/Me1td0wn76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
