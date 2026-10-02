@@ -7,7 +7,7 @@ Tongari-Boyです
 
 ### 使用言語/技術
 主な使用言語/技術  
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unrealengine,cs,unity,git,github,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,unrealengine,cs,unity,git,github,rider,visualstudio,vscode)](https://skillicons.dev)
 
 その他使用言語/技術  
 [![My Skills](https://skillicons.dev/icons?i=c,lua,dotnet,rust,python,java,spring,html,css,js,nodejs,php,go,md,mysql,sqlite)](https://skillicons.dev)
