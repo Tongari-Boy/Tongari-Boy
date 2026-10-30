@@ -1,7 +1,6 @@
 ## こんにちは
 
 Tongari-Boyです  
-https://unityroom.com/games/blackjack1
 メモリ管理を筆頭に、低レイヤ意識のプログラミングが好きです。  
 普段はC++でのゲーム開発を行っています。  
 
